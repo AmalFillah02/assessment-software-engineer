@@ -72,7 +72,7 @@ Edit file .env:
    DB_USERNAME=root
    DB_PASSWORD=
 
-# Jalankan di http://127.0.0.1:xxxx/posts
+# Jalankan di 127.0.0.1:xxxx/posts
 
 ---
 
