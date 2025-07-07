@@ -47,7 +47,7 @@ Ahsanul Amal Fillah
    php artisan key:generate
 - migrasi database:
    ```bash
-   php artisan migrate
+   php artisan migrate --seed
 - Jalankan server:
    ```bash
    php artisan serve
