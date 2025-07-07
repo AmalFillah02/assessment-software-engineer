@@ -4,13 +4,17 @@ Ahsanul Amal Fillah
 ## 📁 Daftar Proyek
 
 ### A. Next.js CRUD (App Router + DaisyUI)
-- 📂 Folder: `nextjs-crud-posts`
+- 📂 Folder: `nextjs-crud-daisyui-host`
 - ✅ Fitur:
   - App Router
   - CRUD Posts (Create, Read, Update, Delete)
   - DaisyUI untuk komponen
 - 🔗 Repository
 [Github](https://github.com/AmalFillah02/nextjs-crud-daisyui-host)
+
+## 🚀 Live Demo
+
+🔗 [View on Vercel](https://nextjs-crud-daisyui-host.vercel.app/)
 
 # Cara Run
 - Masuk ke direktori nextjs-crud-daisyui-host (ex: /c/Projectku/assessment-software-engineer/nextjs-crud-daisyui-host)
